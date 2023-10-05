@@ -1,0 +1,82 @@
+* {
+  padding: 0 auto;
+  margin: 0 auto;
+  text-align: center;
+  
+}
+
+.hero{
+  width: 626px;
+}
+
+.hero img {
+  margin:64px auto 32px;
+}
+
+.hero h2 {
+  font-family: 'dosis', sans-serif;
+  font-weight:500;
+  font-size: 32px;
+  color: #3F3D56;
+  margin: 32px auto 16px;
+}
+
+.hero h2 span {
+  font-family: 'dosis', sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  color: #EE24FF;
+}
+
+.hero p {
+  font-family:'open sans';
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 22px;
+  color: #828282;
+}
+
+.hero p span {
+  color: #3F3D56;
+  font-family: 'open sans', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 22px;
+}
+
+.hero p strong{
+  font-family: 'open sans', sa;
+  color: #828282;
+  font-size: 15px;
+  line-height: 22px;
+  font-weight: bold;
+
+}
+
+.footer .line{
+  width: 391px;
+  border: 1px solid #ECEFF2;
+  margin: 64px auto 16px;
+}
+
+.footer a {
+  font-family: 'open sans';
+  font-weight: bold;
+  font-size: 15px;
+  color: #3F3D56;
+  text-decoration: none;
+  line-height: 147.7%;
+
+}
+
+.footer a+a{
+  margin-left: 28px;
+}
+
+.footer .wave{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  height: 104px;
+}
